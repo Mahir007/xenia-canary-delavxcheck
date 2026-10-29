@@ -1,3 +1,5 @@
+> **Archived:** This project is no longer maintained. For a native macOS build, see [Xenia Edge](https://github.com/has207/xenia-edge), a fork of Xenia Canary.
+
 ---
 
 ## ⚠️  AVX Check Deleted
